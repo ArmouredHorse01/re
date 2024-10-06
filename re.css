@@ -1,0 +1,16 @@
+/* Custom CSS for the Navbar */
+
+.navbar-nav {
+    margin: 0 auto; /* Center the nav links */
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+
+@media (max-width: 768px) {
+    .nav-item {
+        text-align: center;
+        padding: 5px 0;
+    }
+}
